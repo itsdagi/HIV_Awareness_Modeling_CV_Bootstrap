@@ -1,0 +1,19 @@
+"0","library(mice)"
+"2","
+Attaching package: ‘mice’
+
+"
+"2","The following object is masked from ‘package:stats’:
+
+    filter
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    cbind, rbind
+
+"
+"0","imputed_data <- mice(newDf[, c(""v783"", ""v012"", ""v024"", ""v106"", ""v130"", ""v151"")], m = 5, maxit = 50, method = 'pmm', seed = 500)"
+"2","Error in mice.edit.setup(data, setup, ...) : 
+  `mice` detected constant and/or collinear variables. No predictors were left after their removal.
+"

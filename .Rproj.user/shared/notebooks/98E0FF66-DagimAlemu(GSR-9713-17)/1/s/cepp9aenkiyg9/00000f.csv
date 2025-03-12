@@ -1,0 +1,2 @@
+"0","set.seed(9713)"
+"0","newDf <- women15_49[sample(nrow(women15_49), 2500), ]"

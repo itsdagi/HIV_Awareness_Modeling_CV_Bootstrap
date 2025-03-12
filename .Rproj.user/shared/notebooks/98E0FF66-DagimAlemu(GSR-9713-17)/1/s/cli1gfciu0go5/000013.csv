@@ -1,0 +1,3 @@
+"0","library(mice) # Multiple Imputation by Chained Equations"
+"2","Error in library(mice) : there is no package called ‘mice’
+"

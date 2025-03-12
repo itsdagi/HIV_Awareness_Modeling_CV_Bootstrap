@@ -1,0 +1,4 @@
+"0","# histogram plot"
+"0","hist(randNums, breaks = 20, col = ""lightblue"", border = ""darkblue"","
+"0","     main = ""Histogram of Chi-Square Distribution (df=2)"","
+"0","     xlab = ""Score"", ylab = ""Probability"", probability = TRUE)"

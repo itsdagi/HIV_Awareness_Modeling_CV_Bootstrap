@@ -1,0 +1,3 @@
+"0","library(haven) # should install haven for  package first to load dta for stata files first since the data is using the latest stata file version "
+"0","women15_49 <- read_dta('women15_49.dta')"
+"0","head(women15_49)"

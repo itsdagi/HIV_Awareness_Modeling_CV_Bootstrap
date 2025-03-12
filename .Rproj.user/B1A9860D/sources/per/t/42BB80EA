@@ -1,0 +1,28 @@
+{
+    "id": "42BB80EA",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1739987512733.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "5d89ee3570c04181ba6035cffeac857e",
+        "name": "cv_model",
+        "title": "cv_model",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2425407855617,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1739987512733,
+    "read_only": false,
+    "read_only_alternatives": []
+}

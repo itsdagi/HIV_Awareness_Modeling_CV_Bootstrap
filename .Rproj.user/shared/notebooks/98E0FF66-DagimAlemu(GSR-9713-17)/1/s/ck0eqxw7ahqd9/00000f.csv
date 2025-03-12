@@ -1,0 +1,7 @@
+"0","# I choose the logistic regression model because the outcome variable is binary (yes or no)"
+"0","# Using v012 (age), v024 (region), v106 (education), v130 (religion), and v151 (sex of household head) as explanatory variables"
+"0",""
+"0","# Fit logistic regression model"
+"0","model <- glm(v783 ~ v012 + v024 + v106 + v130 + v151, "
+"0","             data = newDf, family = binomial(link = ""logit""))"
+"0",""
